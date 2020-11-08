@@ -7,7 +7,7 @@ This is an awesome mobile-ready bootstrap template for bloggers . This is also b
 
 
 
-![Image 2](https://user-images.githubusercontent.com/59229608/82431704-d2d02780-9ab0-11ea-8c5a-e38320a0e946.png)
+![git](https://user-images.githubusercontent.com/59229608/98460912-99ac8080-21d2-11eb-8e75-bc1846a653aa.png)
 <--------------------------------------------------------------------------------------------------------------------------->
 <--------------------------------------------------------------------------------------------------------------------------->
 ![Image 3](https://user-images.githubusercontent.com/59229608/82431889-17f45980-9ab1-11ea-9542-bb8b85b64919.png)
